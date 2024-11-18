@@ -10,7 +10,7 @@ from tensorflow.keras.regularizers import l2
 from tensorflow.keras.initializers import glorot_uniform
 from sklearn.model_selection import KFold
 from sklearn.metrics import roc_auc_score
-import matplotlib.pyplot as plt
+
 
 tf.random.set_seed(2)
 
